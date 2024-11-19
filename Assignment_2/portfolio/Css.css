@@ -1,0 +1,41 @@
+.color{
+    background-color: rgb(163, 193, 253);
+}
+.info{
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    font-family: 'Palatino Linotype';
+}
+
+.brief{
+    text-align: justify;
+}
+
+.contain{
+    display: flex;
+    justify-content: end;
+}
+
+.pic{
+    width: 300px;
+    height: 300px;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
+
+.tab-align{
+    text-align: center;
+    font-family: 'Poppins';
+}
+
+.bt-size{
+    font-size: 40px;
+}
+
+.btn-pos{
+    justify-content: space-around;
+}
+
