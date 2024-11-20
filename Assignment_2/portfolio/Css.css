@@ -1,11 +1,17 @@
 .color{
-    background-color: rgb(163, 193, 253);
+    background-image: url(bou9.jpg);
+    background-size: 1550px 800px;
 }
 .info{
     min-height: 60vh;
     display: flex;
     align-items: center;
     font-family: 'Palatino Linotype';
+    color: white;
+}
+
+.dept{
+    color: orangered;
 }
 
 .brief{
@@ -19,7 +25,7 @@
 
 .pic{
     width: 300px;
-    height: 300px;
+    height: 350px;
     border-top-left-radius: 20%;
     border-top-right-radius: 20%;
     border-bottom-left-radius: 20%;
@@ -38,4 +44,3 @@
 .btn-pos{
     justify-content: space-around;
 }
-
