@@ -1,0 +1,12 @@
+<courses>
+    <course>
+        <ID>CSE 4105</ID>
+        <Semester>1st</Semester>
+        <credit>4</credit>
+    </course>
+    <course>
+        <ID>CSE 4107</ID>
+        <Semester>1st</Semester>
+        <credit>4</credit>
+    </course>
+</courses>

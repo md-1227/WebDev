@@ -1,0 +1,14 @@
+{
+    "Name": "Md. Ibrahim Eusha",
+    "ID": 230041203,
+    "Courses":[
+        {
+            "CourseID": 1,
+            "CourseName": "CSE 4105"
+        },
+        {
+            "CourseID": 2,
+            "CourseName": "CSE 4107"
+        }        
+    ]
+}

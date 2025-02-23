@@ -1,0 +1,7 @@
+teacherID: 123456
+teacherName: John IUT
+courses:
+  - CoID: CSE 4105
+    CoName: Computing for Engineeers
+  - CoID: CSE 4107
+    CoName: Structured Programming
